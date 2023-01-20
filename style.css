@@ -1,0 +1,54 @@
+
+/* Général */ 
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #EFEFEF;
+	font-family: 'Lato', sans-serif;
+	margin: 30px
+}
+.italique {
+	font-style: italic
+}
+a {
+	text-decoration: none; 
+	color: #708090
+}
+#title {
+	color: #56739A; 
+	font-size: 40px; 
+	font-weight: bold; 
+	text-align: center; 
+	line-height: 1.15
+}
+
+footer {
+	color: #708090; 
+	text-align: right; 
+	font-size: smaller; 
+	padding-top: 30px; 
+}
+h1{
+	color: #56739A; 
+	font-size: x-large;
+	padding-top: 20px;
+}
+p, ul {
+	font-size: medium; 
+	line-height: 1.5; 
+	text-align: justify; 
+	text-justify: inter-word; 
+	hyphens: auto
+}	
+li {
+	line-height: 1.25; 
+	margin-bottom: 5px;
+}
+
+#sous-titre {
+	color: #56739A;
+	text-align: left; 
+	font-size: 25px;  
+	text-align: center; 
+}
